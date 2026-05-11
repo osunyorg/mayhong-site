@@ -2,13 +2,24 @@
 
 fr:
   title: >-
-    Site
+    May Hong
   contentDir: content/fr
   languageCode: fr
   languageName: Français
   buildFuture: true
   params:
     contact_details:
+      social_networks:
+        instagram:
+          label: >-
+            mayhongparis
+          value: >-
+            https://instagram.com/mayhongparis
+        tiktok:
+          label: >-
+            mayhongparis
+          value: >-
+            https://www.tiktok.com/@mayhongparis
 
   taxonomies:
     administrator: administrators
