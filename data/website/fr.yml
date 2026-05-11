@@ -4,23 +4,4 @@ contents_reading_time:
   text: >-
     moins d'une minute
 contents:
-  - kind: block
-    template: contact
-
-
-    ranks:
-      base: 2
-      children: 2
-    top:
-      active: false
-
-    data:
-
-
-
-      contact_details:
-
-      timetable:
-
-
 
