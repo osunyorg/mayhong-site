@@ -1,0 +1,79 @@
+---
+title: Menu principal
+items:
+- title: Actualités
+  slug: actualites
+  target: "/actualites/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/posts"
+  file: content/fr/posts/_index.html
+- title: Organisations
+  slug: organisations
+  target: "/organisations/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/organizations"
+  file: content/fr/organizations/_index.html
+- title: Personnes
+  slug: personnes
+  target: "/personnes/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/persons"
+  file: content/fr/persons/_index.html
+- title: Nos adresses
+  slug: nos-adresses
+  target: "/nos-adresses/"
+  kind: page
+  new_tab: false
+  children:
+  - title: 44 avenue d'Ivry 75013 Paris
+    slug: 44-avenue-d-ivry-75013-paris
+    target: "/nos-adresses/44-avenue-d-ivry-75013-paris/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/nos-adresses/44-avenue-d-ivry-75013-paris"
+    file: content/fr/pages/nos-adresses/44-avenue-d-ivry-75013-paris/_index.html
+  - title: 111 avenue d'Ivry 75013 Paris
+    slug: 111-avenue-d-ivry-75013-paris
+    target: "/nos-adresses/111-avenue-d-ivry-75013-paris/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/nos-adresses/111-avenue-d-ivry-75013-paris"
+    file: content/fr/pages/nos-adresses/111-avenue-d-ivry-75013-paris/_index.html
+  - title: 3 rue Joubert 75009 Paris
+    slug: 3-rue-joubert-75009-paris
+    target: "/nos-adresses/3-rue-joubert-75009-paris/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/nos-adresses/3-rue-joubert-75009-paris"
+    file: content/fr/pages/nos-adresses/3-rue-joubert-75009-paris/_index.html
+  descendants_targets:
+  - "/nos-adresses/111-avenue-d-ivry-75013-paris/"
+  - "/nos-adresses/3-rue-joubert-75009-paris/"
+  - "/nos-adresses/44-avenue-d-ivry-75013-paris/"
+  path: "/pages/nos-adresses"
+  file: content/fr/pages/nos-adresses/_index.html
+- title: Notre carte
+  slug: notre-carte
+  target: "/notre-carte/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/notre-carte"
+  file: content/fr/pages/notre-carte/_index.html
+

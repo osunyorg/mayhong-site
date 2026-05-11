@@ -14,3 +14,15 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
 
+[[redirects]]
+from = "/44-avenue-d-ivry-75013-paris/index.html"
+to = "/nos-adresses/44-avenue-d-ivry-75013-paris/"
+
+[[redirects]]
+from = "/3-rue-joubert-75009-paris/index.html"
+to = "/nos-adresses/3-rue-joubert-75009-paris/"
+
+[[redirects]]
+from = "/111-avenue-d-ivry-75013-paris/index.html"
+to = "/nos-adresses/111-avenue-d-ivry-75013-paris/"
+
